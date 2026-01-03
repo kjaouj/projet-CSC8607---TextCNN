@@ -1,0 +1,33 @@
+# Environnements & artefacts
+.venv/
+.env/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+runs/
+artifacts/
+*.ckpt
+
+# Données & sorties locales (ne pas versionner les gros fichiers)
+data/
+.data/
+.vector_cache/
+
+# Runs TensorBoard et checkpoints (optionnel - à décommenter si voulu)
+# runs/
+# artifacts/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs et caches
+*.log
+*.cache
+
+# Screenshots à exclure si générés automatiquement
+# screenshots/
