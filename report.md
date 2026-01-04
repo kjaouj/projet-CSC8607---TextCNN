@@ -1,9 +1,5 @@
 # Rapport de projet — CSC8607 : Introduction au Deep Learning
 
-> **Note** : Ce rapport a été généré automatiquement. Compléter les sections marquées `_À COMPLÉTER_` avant soumission.
-
----
-
 ## 0) Informations générales
 
 - **Étudiant** : KJAOUJ Aymane
