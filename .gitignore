@@ -5,9 +5,11 @@ __pycache__/
 .ipynb_checkpoints/
 *.pyc
 *.pyo
-runs/
-artifacts/
-*.ckpt
+runs/*
+artifacts/*
+!artifacts/*.ckpt
+!runs/**
+
 
 # Données & sorties locales (ne pas versionner les gros fichiers)
 data/
